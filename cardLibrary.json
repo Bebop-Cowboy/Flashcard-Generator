@@ -1,0 +1,43 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "tags that begin and end Javascript code within an HTML document?",
+    "back": "<script></script>"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "an array simple collection of similar objects that can be accessed by a variable name/index",
+    "cloze": "array"
+  },
+  {
+    "type": "BasicCard",
+    "front": "allows the program to display a special dialog box that will notify the user that an expected event has occurred.",
+    "back": "alert()"
+  },
+  {
+    "type": "BasicCard",
+    "front": "a name assigned to a literal value or object",
+    "back": "var"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "a function segment of javascript code that can be invoked or called, written by a programmer and may contain any number of javascript statements",
+    "cloze": "function"
+  },
+  {
+    "type": "BasicCard",
+    "front": "inserts characters/text into the standard HTML text stream",
+    "back": "documnet.write()"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Math.Random()function that generates random numbers with decimals",
+    "cloze": "Math.Random()"
+  },
+  {
+    "type": "BasicCard",
+    "front": "located within standard HTML tags; causes something to happen",
+    "back": "event"
+  }
+
+]

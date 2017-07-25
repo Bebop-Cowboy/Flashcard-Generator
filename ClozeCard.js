@@ -5,9 +5,10 @@ var ClozeCard = function (text, cloze) {
  function ClozeCardPrototype () {
    this.clozeRemoved = function () {
      return `${this.text[0]} ... ${this.text[1]}`;
+     console.log (this.clozeRemoved);
    };
  };
 
  ClozeCard.prototype = new ClozeCardPrototype ();
 
- module.exports = ClozeCard;
+ module.exports = {ClozeCard:ClozeCard}
